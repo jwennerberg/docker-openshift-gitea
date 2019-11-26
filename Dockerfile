@@ -1,4 +1,4 @@
-FROM docker.io/centos:7
+FROM registry.redhat.io/ubi7/ubi
 
 # Set the Gitea Version to install.
 # Check https://dl.gitea.io/gitea/ for available versions.
